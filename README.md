@@ -35,6 +35,7 @@ Method used for payment (e.g., Credit Card, PayPal, Debit Card).
 
 ## Objective
 In this exercise, we aim to:
+
 Analyze sales trends over time to identify seasonal patterns or growth opportunities.
 Explore the popularity of different product categories across regions.
 Investigate the impact of payment methods on sales volume or revenue.
