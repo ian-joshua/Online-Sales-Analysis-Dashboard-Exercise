@@ -37,7 +37,11 @@ Method used for payment (e.g., Credit Card, PayPal, Debit Card).
 In this exercise, we aim to:
 
 Analyze sales trends over time to identify seasonal patterns or growth opportunities.
+
 Explore the popularity of different product categories across regions.
+
 Investigate the impact of payment methods on sales volume or revenue.
+
 Identify top-selling products within each category to optimize inventory and marketing strategies.
+
 Evaluate the performance of specific products or categories in different regions to tailor marketing campaigns accordingly.
