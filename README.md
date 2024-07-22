@@ -44,9 +44,12 @@ Evaluate the performance of specific products or categories in different regions
 It can be observed that the total revenue exhibits an overall decline from Jan to Aug. The total sales volume experienced fluctuations throughout this period, exhibiting a steep drop in sales volume from Jul to Aug. 
 
 The sunburst chart illustrates the popularity of a certain product category among different regions, and it can be observed that:
+
 Only clothing and sports related products are sold in Asia
+Only beauty and home appliance related products are sold in Europe
+Only books and electronics are sold in North America
+The percentages of each product category sold, relative to their region, are shown as well.
 
 <img width="439" alt="image" src="https://github.com/user-attachments/assets/a1177be2-fbee-44b6-a268-08d71433703e">
 
-Only beauty and home appliance related products are sold in Europe
-Only books and electronics are sold in North America
+
