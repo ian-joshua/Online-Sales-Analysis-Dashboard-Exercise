@@ -43,6 +43,9 @@ Evaluate the performance of specific products or categories in different regions
 ### Overview
 It can be observed that the total revenue exhibits an overall decline from Jan to Aug. The total sales volume experienced fluctuations throughout this period, exhibiting a steep drop in sales volume from Jul to Aug. 
 
+<img width="469" alt="image" src="https://github.com/user-attachments/assets/e2b1818f-9914-4ec8-adf1-ddb20a755564">
+
+
 The treemap chart illustrates the top 10% products sold, where a larger segment represents a larger quantity of that particular product being sold.
 
 <img width="394" alt="image" src="https://github.com/user-attachments/assets/b43cffc2-5a02-4079-be34-082c01c5ecc7">
