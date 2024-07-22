@@ -52,7 +52,7 @@ Three doughnut charts help us visualize the percentage of sales volume classifie
 
 <img width="190" alt="image" src="https://github.com/user-attachments/assets/82f2857d-ada6-437e-a11b-daf0a5a0b22f">
 
-<img width="197" alt="image" src="https://github.com/user-attachments/assets/aae49839-e835-4848-b13e-f961146677e9">
+<img width="190" alt="image" src="https://github.com/user-attachments/assets/615fef0c-0c0e-449e-a3ac-4ee1393e3f17">
 
 <img width="190" alt="image" src="https://github.com/user-attachments/assets/9641b3bc-118b-4a16-877b-9c2569a6efa7">
 
