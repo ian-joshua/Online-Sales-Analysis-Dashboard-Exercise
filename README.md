@@ -77,7 +77,7 @@ Only beauty and home appliance related products are sold in Europe
 
 Only books and electronics are sold in North America
 
-The percentages of each product category sold, relative to their region, are shown as well.
+The percentages of sales volume belonging to a particular each product category, relative to their region, are shown as well.
 
 <img width="439" alt="image" src="https://github.com/user-attachments/assets/4c275509-233d-4e1d-a136-131ecbaf822f">
 
