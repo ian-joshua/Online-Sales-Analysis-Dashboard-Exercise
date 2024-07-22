@@ -40,8 +40,13 @@ Evaluate the performance of specific products or categories in different regions
 
 ## Conclusion
 
-#### Overview
+### Overview
 It can be observed that the total revenue exhibits an overall decline from Jan to Aug. The total sales volume experienced fluctuations throughout this period, exhibiting a steep drop in sales volume from Jul to Aug. 
+
+The treemap chart illustrates the top 10% products sold, where a larger segment represents a larger quantity of that particular product being sold.
+
+3 Doughnut charts help us visualize the percentage of sales volume classified by region and product category, and the percentage of transactions classified by payment method.
+
 
 The sunburst chart illustrates the popularity of a certain product category among different regions, and it can be observed that:
 
