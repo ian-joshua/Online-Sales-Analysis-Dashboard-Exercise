@@ -40,6 +40,10 @@ Evaluate the performance of specific products or categories in different regions
 
 
 ## Overview
+
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/b839e035-4fc3-46ec-b5e1-7baa6042a8b5">
+
+
 It can be observed that the total revenue exhibits an overall decline from Jan to Aug. 
 
 The total sales volume experienced fluctuations throughout this period, exhibiting a steep drop in sales volume from Jul to Aug. 
