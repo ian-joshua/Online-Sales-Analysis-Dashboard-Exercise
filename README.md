@@ -45,3 +45,10 @@ Investigate the impact of payment methods on sales volume or revenue.
 Identify top-selling products within each category to optimize inventory and marketing strategies.
 
 Evaluate the performance of specific products or categories in different regions to tailor marketing campaigns accordingly.
+
+## Conclusion
+
+#### Overview
+It can be observed that the total revenue exhibits an overall decline from Jan to Aug. The total sales volume experienced fluctuations throughout this period, exhibiting a steep drop in sales volume from Jul to Aug. 
+
+The sunburst chart illustrates the popularity of a certain product category among different regions, and it can be observed that 
