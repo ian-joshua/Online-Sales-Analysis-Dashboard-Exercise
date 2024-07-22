@@ -45,6 +45,7 @@ It can be observed that the total revenue exhibits an overall decline from Jan t
 
 The sunburst chart illustrates the popularity of a certain product category among different regions, and it can be observed that:
 Only clothing and sports related products are sold in Asia
+
 <img width="439" alt="image" src="https://github.com/user-attachments/assets/a1177be2-fbee-44b6-a268-08d71433703e">
 
 Only beauty and home appliance related products are sold in Europe
