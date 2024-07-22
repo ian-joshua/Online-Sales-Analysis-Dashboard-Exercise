@@ -7,8 +7,7 @@ This dataset provides a comprehensive overview of online sales transactions acro
 
 ## Columns:
 
-#### Order ID: 
-Unique identifier for each sales order.
+##### Order ID: Unique identifier for each sales order.
 
 #### Date:
 Date of the sales transaction.
