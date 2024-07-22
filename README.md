@@ -45,7 +45,19 @@ It can be observed that the total revenue exhibits an overall decline from Jan t
 
 The treemap chart illustrates the top 10% products sold, where a larger segment represents a larger quantity of that particular product being sold.
 
-3 Doughnut charts help us visualize the percentage of sales volume classified by region and product category, and the percentage of transactions classified by payment method.
+<img width="394" alt="image" src="https://github.com/user-attachments/assets/b43cffc2-5a02-4079-be34-082c01c5ecc7">
+
+
+Three doughnut charts help us visualize the percentage of sales volume classified by region and product category, and the percentage of transactions classified by payment method.
+
+<img width="190" alt="image" src="https://github.com/user-attachments/assets/82f2857d-ada6-437e-a11b-daf0a5a0b22f">
+
+<img width="197" alt="image" src="https://github.com/user-attachments/assets/aae49839-e835-4848-b13e-f961146677e9">
+
+<img width="190" alt="image" src="https://github.com/user-attachments/assets/9641b3bc-118b-4a16-877b-9c2569a6efa7">
+
+
+
 
 
 The sunburst chart illustrates the popularity of a certain product category among different regions, and it can be observed that:
