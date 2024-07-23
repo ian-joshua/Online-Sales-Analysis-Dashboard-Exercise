@@ -25,7 +25,29 @@ This dataset provides a comprehensive overview of online sales transactions acro
 
 ##### Payment Method: Method used for payment (e.g., Credit Card, PayPal, Debit Card).
 
-## Objective
+## Table of Contents
+* [Objectives](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/blob/main/README.md#objective)
+
+* [Overview](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/edit/main/README.md#overview)
+
+* [Insights](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/edit/main/README.md#insights)
+
+  - [Asia](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/edit/main/README.md#asia)
+  - [Europe](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/edit/main/README.md#europe)
+  - [North America](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/edit/main/README.md#north-america)
+
+* [Recommendations](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/edit/main/README.md#recommendations)
+  - [Asia](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/edit/main/README.md#asia-1)
+  - [Europe](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/edit/main/README.md#europe-1)
+  - [North America](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/edit/main/README.md#north-america-1)
+  - [General Recommendations](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/edit/main/README.md#general-recommendations)
+
+* [Conclusion](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/edit/main/README.md#conclusion)
+  
+
+
+
+## Objectives
 In this exercise, we aim to:
 
 Analyze sales trends over time to identify seasonal patterns or growth opportunities.
