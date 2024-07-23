@@ -26,23 +26,23 @@ This dataset provides a comprehensive overview of online sales transactions acro
 ##### Payment Method: Method used for payment (e.g., Credit Card, PayPal, Debit Card).
 
 ## Table of Contents
-* [Objectives](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/blob/main/README.md#objective)
+* [Objectives](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise#objectives)
 
-* [Overview](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/edit/main/README.md#overview)
+* [Overview](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise#overview)
 
-* [Insights](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/edit/main/README.md#insights)
+* [Insights](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise#insights)
 
-  - [Asia](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/edit/main/README.md#asia)
-  - [Europe](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/edit/main/README.md#europe)
-  - [North America](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/edit/main/README.md#north-america)
+  - [Asia](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise#asia)
+  - [Europe](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise#europe)
+  - [North America](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise#north-america)
 
-* [Recommendations](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/edit/main/README.md#recommendations)
-  - [Asia](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/edit/main/README.md#asia-1)
-  - [Europe](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/edit/main/README.md#europe-1)
-  - [North America](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/edit/main/README.md#north-america-1)
-  - [General Recommendations](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/edit/main/README.md#general-recommendations)
+* [Recommendations](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise#recommendations)
+  - [Asia](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise#asia-1)
+  - [Europe](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise#europe-1)
+  - [North America](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise#north-america-1)
+  - [General Recommendations](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise#general-recommendations)
 
-* [Conclusion](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise/edit/main/README.md#conclusion)
+* [Conclusion](https://github.com/ian-sainani/Online-Sales-Analysis-Dashboard-Exercise#conclusion)
   
 
 
